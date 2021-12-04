@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Examen",
+    "slug": "Examen",
+    "description":"DrawerNavigator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/c.png",
+    "splash": {
+      "image": "./assets/cinepolis.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/c.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/c.png"
+    }
+  }
+}
